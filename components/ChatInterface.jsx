@@ -181,7 +181,7 @@ export default function ChatInterface({ menuItems }) {
     <div className="bg-white rounded-lg shadow-md flex flex-col h-full">
       {/* Chat Header */}
       <div className="p-4 border-b flex justify-between items-center">
-        <h2 className="text-xl font-bold text-gray-800">Menü Asistanı</h2>
+        <h2 className="text-xl font-bold text-gray-800">Menu Assistant</h2>
         <div className="w-32">
           <LanguageSelector 
             selectedLanguage={language} 
