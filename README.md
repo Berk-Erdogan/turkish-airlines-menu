@@ -22,8 +22,16 @@ Image Processing :React-dropzone,react-webcam
 ```
 1.Clone the project to your environment
 2.install the dependencies with npm install
-3.type npm run dev to terminal
-4.(optional) Change the gemini api key
+3.Set up a .env.local file with bellowed format
+
+# Gemini API key
+NEXT_PUBLIC_GEMINI_API_KEY=your_gemini_api_key_here
+
+# Default Lenguage
+NEXT_PUBLIC_DEFAULT_LANGUAGE=en
+
+4.type npm run dev to terminal
+
 ```
 
 ## Main Components
