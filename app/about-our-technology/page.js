@@ -13,7 +13,7 @@ export default function Home() {
       
       <section className="bg-white p-6 rounded-lg shadow-lg transition-transform duration-300 ease-out hover:-translate-y-1 border border-gray-300">
         <p className="text-gray-600 mb-6">
-        Welcome to the cutting-edge Turkish Airlines Menu Assistant, an innovative platform meticulously designed to enhance your in-flight dining experience through artificial intelligence integration. This advanced web application establishes a seamless connection with Google's Gemini AI to deliver personalized menu interaction capabilities while you travel.
+  Welcome to the cutting-edge Turkish Airlines Menu Assistant, an innovative platform meticulously designed to enhance your in-flight dining experience through artificial intelligence integration. This advanced web application establishes a seamless connection with Google Gemini AI to deliver personalized menu interaction capabilities while you travel.
         </p>
         <p className="text-gray-600 mb-6">
   Our platform enables passengers to effortlessly capture or upload images of their in-flight menu through an intuitive interface, whereupon our sophisticated AI system processes the visual data to extract comprehensive menu information. The system employs state-of-the-art computer vision and natural language processing technologies to accurately identify menu items, ingredients, nutritional information, and preparation methods.
